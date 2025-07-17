@@ -74,9 +74,8 @@
 
 ## GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=GURUVENKATESH03&theme=radical)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=GURUVENKATESH03&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-![Contribution Snake](https://github-readme-activity-graph.vercel.app/graph?username=GURUVENKATESH03&theme=radical)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GURUVENKATESH03&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=GURUVENKATESH03&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Contribution Snake](https://github-readme-activity-graph.vercel.app/graph?username=GURUVENKATESH03&theme=onedark)
 ![](https://komarev.com/ghpvc/?username=GURUVENKATESH03&color=blue)
 
 ## 🎯 Fun Facts & Interests
