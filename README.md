@@ -56,10 +56,10 @@
 
 | Project | Description | Tech Stack | Link |
 | ------- | ----------- | ---------- | ---- |
-| 🔍 **Resume Analyzer** | Analyzes resumes with Spring Boot & Python NLP to extract and evaluate skills, offering job-based suggestions. | Spring Boot, Python NLP | [GitHub](https://github.com/GURUVENKATESH03) |
-| 🗣️ **Voice Text Reader** | Portable device for visually impaired, reads text from images aloud using Raspberry Pi, Python, OpenCV, EasyOCR. | Python, Raspberry Pi, OpenCV | [GitHub](https://github.com/GURUVENKATESH03) |
-| 📅 **Event Management System** | Full-stack app for event creation, registration, slot management, and role-based access. | Spring Boot, Thymeleaf, MySQL | [GitHub](https://github.com/GURUVENKATESH03) |
-
+| 🔍 **Resume Analyzer** | Analyzes resumes with Spring Boot & Python NLP to extract and evaluate skills, offering job-based suggestions. | Spring Boot, Python NLP | [GitHub](https://github.com/GURUVENKATESH03/Resume-Analyzer) |
+| 🗣️ **Voice Text Reader** | Portable device for visually impaired, reads text from images aloud using Raspberry Pi, Python, OpenCV, EasyOCR. | Python, Raspberry Pi, OpenCV | [GitHub](https://github.com/GURUVENKATESH03/EasyOCR-and-Transliteration) |
+| 📅 **Event Management System** | Full-stack app for event creation, registration, slot management, and role-based access. | Spring Boot, Thymeleaf, MySQL | [GitHub](https://github.com/GURUVENKATESH03/EventManagement) |
+| 📅 **Meal Share** | Meal Share is a full-stack web application developed to address the growing issue of food waste by connecting food donors (restaurants, caterers, households) with individuals and NGOs in need. The platform streamlines surplus food sharing, ensures accountability, and promotes a sustainable ecosystem of food redistribution. | Spring Boot, Thymeleaf/React, MySQL | [GitHub](https://github.com/GURUVENKATESH03/foodsaver) |
 ---
 
 ## 🌐 Connect with Me
