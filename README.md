@@ -1,7 +1,7 @@
 
 <!-- Banner Image (optional, host your own for best results) -->
 <p align="center">
-  <img src="https://github.com/GURUVENKATESH03/GURUVENKATESH03/Copilot_20250717_183506" alt="Guru Venkatesh Banner" width="80%" />
+  <img src="https://github.com/GURUVENKATESH03/GURUVENKATESH03/Copilot_20250717_183506.png" alt="Guru Venkatesh Banner" width="80%" />
 </p>
 
 <h1 align="center">Hi there, I'm <span style="color:#2e8b57;">Guru Venkatesh</span> 👋</h1>
