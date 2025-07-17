@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!-- Banner Image (optional, host your own for best results) -->
 <p align="center">
