@@ -72,11 +72,28 @@
 
 ---
 
-## GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=GURUVENKATESH03&theme=radical)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=GURUVENKATESH03&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-![Contribution Snake](https://github-readme-activity-graph.vercel.app/graph?username=GURUVENKATESH03&theme=onedark)
-![](https://komarev.com/ghpvc/?username=GURUVENKATESH03&color=blue)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GURUVENKATESH03&show_icons=true&theme=radical&hide_title=false&count_private=true" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GURUVENKATESH03&layout=compact&langs_count=8&theme=radical" alt="Top Languages" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=GURUVENKATESH03&theme=radical" alt="GitHub Streak" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GURUVENKATESH03&theme=onedark&row=1&column=7" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GURUVENKATESH03&theme=onedark" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GURUVENKATESH03&color=blue" alt="Profile Views" />
+</p>
 
 ## 🎯 Fun Facts & Interests
 
