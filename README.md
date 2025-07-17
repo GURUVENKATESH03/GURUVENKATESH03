@@ -68,7 +68,6 @@
   <a href="https://guruvenkatesh.netlify.app/">🌐 Portfolio</a> • 
   <a href="https://www.linkedin.com/in/guru-venkatesh-b3ab16226">💼 LinkedIn</a> • 
   <a href="https://leetcode.com/u/GURU_VENKATESH/">🧠 LeetCode</a> • 
-  <a href="https://github.com/GURUVENKATESH03">💻 GitHub</a>
 </p>
 
 ---
@@ -85,8 +84,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GURUVENKATESH03&show_icons=true&theme=react" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GURUVENKATESH03&theme=react" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=GURUVENKATESH03&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
